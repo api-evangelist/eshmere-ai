@@ -1,4 +1,4 @@
-# eshmere-ai
+# Eshmere Ltd
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,111 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-eshmere-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://eshmere.ai/
+Eshmere Ltd provides AI-driven tools for public procurement and rental property management. Their flagship products include Winquill, an AI assistant that helps public agencies navigate tenders across 30 countries, and Letwarden, which assists landlords in England with tenant screening and lease management. The company leverages advanced language models to automate document analysis, risk assessment, and decision support, aiming to increase efficiency and transparency in public sector contracting and private rental markets.
+
+**Areas:** AI · Public Procurement · Real Estate · Automation · SaaS
+
+## Eshmere Ltd on APIs.io
+
+Everything profiled for Eshmere Ltd is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/eshmere-ai/](https://apis.io/providers/eshmere-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [Eshmere Ltd Drafting API](https://apis.io/apis/eshmere-ai/eshmere-ai-drafting-api/) — Winquill drafting bids, and the Library it learns from. Scope: drafting.
+- [Eshmere Ltd Pipeline API](https://apis.io/apis/eshmere-ai/eshmere-ai-pipeline-api/) — The team's pipeline, watches, the company profile and alerts. Scope: pipeline.
+- [Eshmere Ltd Read API](https://apis.io/apis/eshmere-ai/eshmere-ai-read-api/) — Tools that change nothing. Scope: read.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Eshmere Ai Agentic Access](https://apis.io/agentic-access/eshmere-ai/eshmere-ai-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Eshmere Ai Context](https://apis.io/jsonld/eshmere-ai/eshmere-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Eshmere Ltd API Rules](https://apis.io/rules/eshmere-ai/eshmere-ai-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Eshmere Ai Authentication](https://apis.io/security/eshmere-ai/eshmere-ai-authentication/)
+- [Eshmere Ai Domain Security](https://apis.io/security/eshmere-ai/eshmere-ai-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.eshmere.ai/)
+- [Documentation](https://www.eshmere.ai/docs)
+- [Pricing](https://winquill.com/pricing)
+- [Terms of service](https://www.eshmere.ai/legal#terms)
+- [Privacy policy](https://www.eshmere.ai/legal#privacy)
+
+## API Evangelist rating
+
+**Kin Score 43.0** — developing · rubric 0.27.0 · scored 2026-11-07
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 51.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 32.6 |
+| Access clarity | 31.6 |
+
+**Agent readiness 47.3** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | near-conformant (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/eshmere-ai/](https://apis.io/providers/eshmere-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Eshmere Ltd: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/eshmere-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
